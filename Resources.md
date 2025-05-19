@@ -27,3 +27,7 @@
 [BlockChain](https://medium.com/coinmonks/best-resources-to-learn-blockchain-development-in-2023-cdd03bab58db)
 
 [FreeCodeCamp_BlockChain](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+
+## **Learn Anything Faster (Richard Fayman)**
+
+[Link](https://fs.blog/feynman-technique/#:~:text=Richard%20Feynman%20was%20not%20only,concept%20and%20map%20your%20knowledge)
